@@ -1,4 +1,5 @@
 # pgp
+<pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Comment: https://keybase.io/download
 Version: Keybase Go 5.5.1 (linux)
@@ -65,3 +66,4 @@ Fa6sYPbLXO5rrX70plUOhjxhlnf9wDrjnAfObyi30dHoZfkVycZoWm858EYJUBLu
 BNmYMw==
 =oala
 -----END PGP PUBLIC KEY BLOCK-----
+</pre>
